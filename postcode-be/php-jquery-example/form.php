@@ -60,14 +60,14 @@
         </div>
 
         <div class="form-group">
-                <div class="form">
-                     <label for="housenumber">Huisnummer</label>
-                     <input type="text" class="form-control" id="housenumber">
-                </div>
-                <div class="form">
-                    <label for="bus">Bus</label>
-                    <input type="text" class="form-control"id="bus">
-               </div>
+            <div class="form">
+                 <label for="housenumber">Huisnummer</label>
+                 <input type="text" class="form-control" id="housenumber">
+            </div>
+            <div class="form">
+                <label for="bus">Bus</label>
+                <input type="text" class="form-control"id="bus">
+           </div>
         </div>
     </div>
 
@@ -88,8 +88,8 @@
         </div>
 
         <div class="form-group">
-                <label for="postcode">Postcode</label>
-                <input type="text" class="form-control" id="postcode">
+            <label for="postcode">Postcode</label>
+            <input type="text" class="form-control" id="postcode">
         </div>
     </div>
 </div>
