@@ -40,7 +40,7 @@ namespace TIG_Postcodeservice
     {
         public static void Main(string[] args)
         {
-            string client_id = "1014BA";
+            string client_id = "1177";
             string secure_code = "9SRLYBCALURPE2B";
 
             string postcode = "1014BA";
