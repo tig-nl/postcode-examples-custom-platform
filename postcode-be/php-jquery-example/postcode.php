@@ -50,10 +50,6 @@ class TIG_PostcodeBe
         $url = 'https://postcode-be.tig.nl/api/be/find?' . http_build_query(
                 array(
                     'street'    => $street,
-                    'client_id'   => $this->_options['client_id'],
-                    'secure_code' => $this->_options['secure_code'],
-                    'domain'      => $_SERVER['HTTP_HOST'],
-                    'remote_ip'   => $_SERVER['REMOTE_ADDR']
                 )
             );
 
